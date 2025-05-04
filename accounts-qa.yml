@@ -8,6 +8,6 @@ accounts:
   description: "This microservice is responsible for managing user accounts."
   contact:
     name: "Saulo"
-    email: "example@gmail.com"
+    email: "{cipher}964b5cb762376c20d270468b69549f8c089aaebc8be4db39fe083f501dc129814b0378a6cbb93fc536b4ab1369ffe7f8"
 
 

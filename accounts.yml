@@ -6,7 +6,7 @@ build:
   version: "1.3.0"
 
 accounts:
-  message: "Welcome to Accounts Microservice"
+  message: "Welcome to Accounts Microservice running on docker"
   description: "This microservice is responsible for managing user accounts."
   contact:
     name: "Saulo Santos"
